@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashkanchaji
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Pyhthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : achaji2563@gmail.com
 
