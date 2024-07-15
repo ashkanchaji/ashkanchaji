@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashkanchaji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning more about DSA and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : achaji2563@gmail.com
 
