@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ashkanchaji<br>🌱 I’m currently learning Django.<br>📫 How to reach me : achaji2563@gmail.com
+👋 Hi, I’m @ashkanchaji<br>🌱 I’m currently learning Go.<br>📫 How to reach me : achaji2563@gmail.com
 
 
 ## 🌐 Socials:
